@@ -21,3 +21,5 @@ Key highlights include:
 Fractal Explorer is designed for learning, experimentation, creative exploration, and scientific visualization.
 
 To modify the fractals, try different complex numbers
+
+>>> The different codes portray different colour variants of the julia set
