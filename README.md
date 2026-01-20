@@ -19,3 +19,5 @@ Key highlights include:
 . Support for both Julia and Mandelbrot fractals
 
 Fractal Explorer is designed for learning, experimentation, creative exploration, and scientific visualization.
+
+To modify the fractals, try different complex numbers
